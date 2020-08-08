@@ -19,10 +19,15 @@ By Johann Philipp Dreessen
 By Mouad Damir
 
 The project has 2 major components:
+
 A custom CNN build for identification and location of keys/wallet/glasses
+
 Notebook: 
+
 * vision/owen_classify_objects.ipynb (coded by Owen Callen)
+
 Data: 	
+
 * vision/data/keys (Gathered by Johann Philipp Dreessen)
 * vision/data/glasses (Gathered by Mouad Damir)
 * vision/data/wallets (Gathered by Owen Callen)
@@ -30,9 +35,14 @@ Data:
 
 
 A modular jetbot/jetracer system:
+
 Jetbot:
+
 * Notebook: jetbot/control_loop.ipynb (By Owen Callen, Object location by Johann Philipp Dreessen)
+
 Data: jetbot/dataset_owen (Gathered by Owen Callen)
+
 JetRacer:
+
 * Notebook: jetbot/full_exe.ipynb (By Johann Philipp Dreessen)
 Data: jetbot/dataset (Gathered by Johann Philipp Dreessen)
