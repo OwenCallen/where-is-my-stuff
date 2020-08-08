@@ -4,7 +4,15 @@ By:
 - Mouad Damir
 - Johann Philipp Dreessen
 
-This is the final project for DGMD S-17. We draw heavily from the [jetbot tutorials](https://github.com/NVIDIA-AI-IOT/jetbot), and the yolo models examples.
+This is the final project for DGMD S-17. We draw heavily from the [jetbot tutorials](https://github.com/NVIDIA-AI-IOT/jetbot).
+
+Yolo sourses:
+
+https://gilberttanner.com/blog/yolo-object-detection-in-pytorch
+
+https://www.google.com/amp/s/blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/amp/
+
+https://github.com/cfotache/pytorch_objectdetecttrack
 
 [Video](https://drive.google.com/file/d/1NUb2KVUlQoqC06DATXHxSNlxn-0bfpRi/view?usp=sharing)
 By Owen Callen
